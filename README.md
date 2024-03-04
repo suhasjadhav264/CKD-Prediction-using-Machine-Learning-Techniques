@@ -84,4 +84,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgments
 The dataset used in this project is available in the UCI Machine Learning Repository and was donated by Dr. S. Charoenkwan, Department of Medicine, Faculty of Medicine,
-```
