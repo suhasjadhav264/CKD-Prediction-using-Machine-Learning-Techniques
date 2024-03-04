@@ -1,15 +1,20 @@
-```markdown
 # Chronic Kidney Disease Prediction Using Machine Learning
 
 ## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Prerequisites](#prerequisites)
-3. [Project Structure](#project-structure)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Conclusion](#conclusion)
-7. [License](#license)
-8. [Acknowledgments](#acknowledgments)
+- [Chronic Kidney Disease Prediction Using Machine Learning](#chronic-kidney-disease-prediction-using-machine-learning)
+  - [Table of Contents](#table-of-contents)
+  - [Project Overview](#project-overview)
+  - [Prerequisites](#prerequisites)
+  - [Project Structure](#project-structure)
+  - [Installation](#installation)
+    - [Step 1: Clone the Repository](#step-1-clone-the-repository)
+    - [Step 2: Create a Virtual Environment](#step-2-create-a-virtual-environment)
+    - [Step 3: Install Python Libraries](#step-3-install-python-libraries)
+    - [Step 4: Run the Application](#step-4-run-the-application)
+  - [Usage](#usage)
+  - [Conclusion](#conclusion)
+  - [License](#license)
+  - [Acknowledgments](#acknowledgments)
 
 ## Project Overview
 This project utilizes the kidney disease dataset available in the UCI Machine Learning Repository to train and test various classification models for predicting chronic kidney disease. The dataset contains 24 features, including demographic information, clinical measurements, and disease history of patients. The target variable is a binary classification indicating the presence or absence of chronic kidney disease.
@@ -80,3 +85,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Acknowledgments
 The dataset used in this project is available in the UCI Machine Learning Repository and was donated by Dr. S. Charoenkwan, Department of Medicine, Faculty of Medicine,
 ```
+
+correct this
